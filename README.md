@@ -4,8 +4,9 @@
 ## Retos
 
  - [Palabras Anagramas](https://github.com/ireneArenas14/retos-js/blob/main/anagrama.js)
- - [Generar Contraseñas de forma aleatoria](https://github.com/ireneArenas14/retos-js/blob/main/generarContrase%C3%B1as.js.js)
- - [Tranformar texto en lenguaje Hacker](https://github.com/ireneArenas14/retos-js/blob/main/lenguajerHacker.js.js)
+ - [Generar Contraseñas de forma aleatoria](https://github.com/ireneArenas14/retos-js/blob/main/generarContrase%C3%B1as.js)
+ - [Tranformar texto en lenguaje Hacker](https://github.com/ireneArenas14/retos-js/blob/main/lenguajerHacker.js)
+ - [Contar palabras en cadena texto](https://github.com/ireneArenas14/retos-js/blob/main/contarPalabras.js)
 
 
 
