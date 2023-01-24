@@ -9,5 +9,6 @@
  - [Contar palabras en cadena texto](https://github.com/ireneArenas14/retos-js/blob/main/contarPalabras.js)
  - [Saber si una palabra es palíndromo](https://github.com/ireneArenas14/retos-js/blob/main/palindromo.js)
  - [Buscar resultado de multiplicación más grande](https://github.com/ireneArenas14/retos-js/blob/main/pairAdjacentsElements.js)
+ - [Habitación fantasma](https://github.com/ireneArenas14/retos-js/blob/main/roomsBelow.js)
 
 
