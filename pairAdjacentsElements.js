@@ -9,7 +9,7 @@
 
 */
 
-function solution(inputArray) {
+const solution = (inputArray) => {
     let aux = null;
     let response = [];
 
