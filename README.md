@@ -10,5 +10,9 @@
  - [Saber si una palabra es palíndromo](https://github.com/ireneArenas14/retos-js/blob/main/palindromo.js)
  - [Buscar resultado de multiplicación más grande](https://github.com/ireneArenas14/retos-js/blob/main/pairAdjacentsElements.js)
  - [Habitación fantasma](https://github.com/ireneArenas14/retos-js/blob/main/roomsBelow.js)
+ - [Ordenar por alturas](https://github.com/ireneArenas14/retos-js/blob/main/sorthByHeight.js)
+ - [Número de la suerte](https://github.com/ireneArenas14/retos-js/blob/main/numberLucky.js)
+ - [Crear polígono](https://github.com/ireneArenas14/retos-js/blob/main/createPolygon.js)
+ - [Palabras más largas](https://github.com/ireneArenas14/retos-js/blob/main/longestStrings.js)
 
 
